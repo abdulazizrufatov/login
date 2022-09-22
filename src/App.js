@@ -3,7 +3,6 @@ import "./App.css";
 import { useRef, useState } from "react";
 import { Input } from "./components/input/Input";
 import { useTranslation } from "react-i18next";
-import { Lang } from "./languages/lang";
 import i18next from "i18next";
 import LoginImg from "../src/assets/images/login-img.png";
 
